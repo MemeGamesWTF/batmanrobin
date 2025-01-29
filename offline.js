@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1738149325,
+	"version": 1738151294,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,6 +16,16 @@
 		"images/rope1.png",
 		"media/tap.m4a",
 		"media/tap.ogg",
+		"media/sound1.m4a",
+		"media/sound1.ogg",
+		"media/sound0.m4a",
+		"media/sound0.ogg",
+		"media/sound2.m4a",
+		"media/sound2.ogg",
+		"media/slap sound.m4a",
+		"media/slap sound.ogg",
+		"media/bg (1).m4a",
+		"media/bg (1).ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
